@@ -1,3 +1,4 @@
+
 # 🛡️ Home SOC Lab — Detecção de Brute-Force SSH com Wazuh
 
 Laboratório doméstico de segurança, isolado em rede virtual, construído para simular um cenário real de ataque e detecção, usando Wazuh como plataforma de SIEM/XDR open-source.
@@ -128,7 +129,7 @@ Regras acionadas incluíram `Logon Failure - Unknown` (múltiplas tentativas fal
 > 
 > 
 > 
-> image
+> <img width="975" height="433" alt="image" src="https://github.com/user-attachments/assets/f56674a6-090b-4831-8471-902426f0e1e8" />
 > 
 
 ## 🔧 Troubleshooting — Problemas reais enfrentados e resolvidos
